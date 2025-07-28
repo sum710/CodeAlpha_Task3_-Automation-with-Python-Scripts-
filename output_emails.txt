@@ -1,0 +1,6 @@
+ali@example.com
+support@mywebsite.org
+jane_smith123@gmail.com
+info@company.co.uk
+first.last@subdomain.example.com
+paaloo12345@gmail.com

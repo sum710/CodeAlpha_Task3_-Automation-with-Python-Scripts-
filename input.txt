@@ -1,0 +1,8 @@
+Hello, you can reach me at ali@example.com for any inquiries.
+Please contact support@mywebsite.org for assistance.
+My personal email is jane_smith123@gmail.com.
+You can also reach out to info@company.co.uk for more information.
+This is not an email: user123@.com
+Another invalid email: @example.com
+Valid email: first.last@subdomain.example.com
+Valid email: paaloo12345@gmail.com
