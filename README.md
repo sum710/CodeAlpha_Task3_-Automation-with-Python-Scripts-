@@ -1,4 +1,4 @@
-#📧 Email Address Extractor – CodeAlpha Internship Task 3
+**📧 Email Address Extractor – CodeAlpha Internship Task 3**
 
 **👩‍💻 Created by: Sumbal Murtaza**
 
